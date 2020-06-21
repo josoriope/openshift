@@ -1,0 +1,7 @@
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/category/IntegrationTest.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/category/UnitTest.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/DefaultDeployment.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/UserDaoTest.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/service/UserResourceTest.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/TaskDaoTest.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/test/java/org/jboss/as/quickstarts/tasksrs/service/TaskResourceTest.java

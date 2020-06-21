@@ -1,0 +1,11 @@
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/service/UserResource.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/User.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/com/openshift/helpers/Load.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/com/openshift/service/DemoResource.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/TaskDao.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/UserDaoImpl.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/Resources.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/Task.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/UserDao.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/service/TaskResource.java
+/home/josorior-pe.ibm.com/openshift-tasks/src/main/java/org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl.java

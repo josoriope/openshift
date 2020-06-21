@@ -1,0 +1,8 @@
+com/redhat/developers/msa/ola/OlaController.class
+com/redhat/developers/msa/ola/OlaApplication.class
+com/redhat/developers/msa/ola/ZipKinConfiguration.class
+com/redhat/developers/msa/ola/HolaService.class
+com/redhat/developers/msa/ola/KeycloakCORSConfiguration$1.class
+com/redhat/developers/msa/ola/KeycloakCORSConfiguration.class
+com/redhat/developers/msa/ola/SwaggerConfiguration.class
+com/redhat/developers/msa/ola/HystrixServletConfiguration.class
